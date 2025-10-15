@@ -53,7 +53,7 @@ code-review-assistant/
 The reviewer must create a file named .env in the backend/ directory with their OpenRouter key:
 
 OPENROUTER_API_KEY="sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
-# Please use your own token here.
+#please use your own token here
 
 3. Backend (FastAPI) Installation
 Navigate to the backend directory:
