@@ -396,7 +396,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <h1>Synapse AI Code Reviewer</h1>
-                <p className="attribution">Developed by: **Navya Sree**</p>
+        
                 <p className="description">Get an automated code review for your files.</p>
                 
                 {/* Navigation Tabs */}
@@ -452,7 +452,7 @@ function App() {
                                 <h3>Start Your Code Analysis</h3>
                                 <p className="info-divider"></p>
                                 <p className="info-text">
-                                    Our **AI assistant** will instantly analyze the **structure, readability, best practices, and potential bugs**, providing a comprehensive report for your submission.
+                                    Our AI assistant will instantly analyze the **structure, readability, best practices, and potential bugs**, providing a comprehensive report for your submission.
                                 </p>
                             </div>
                             
